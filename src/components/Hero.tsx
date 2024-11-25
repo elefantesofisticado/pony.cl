@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="relative container mx-auto px-4 h-full flex items-center">
         <div className="max-w-xl">
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-            Unlock Your Hair's
+            Devela tu
             <span className="text-[#FF1493]"> Verdadero Potencial!</span>
           </h1>
           <p className="text-xl text-gray-700 mb-8">
